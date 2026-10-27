@@ -1,0 +1,4 @@
+courier,eligible_orders,on_time_orders,on_time_rate
+Blue Dart,1,1,1.0
+FastBee,1,1,1.0
+ShipQuick,2,1,0.5

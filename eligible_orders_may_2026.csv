@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,shipped_at,delivered_at,updated_at,city,courier,payment_status,order_status,promised_days,order_value,is_test_order,actual_transit_days,delivery_status
+O1001,C01,2026-04-29,2026-05-01,2026-05-03,2026-05-03,Bengaluru,ShipQuick,Paid,Delivered,2,1200,No,2,On Time
+O1003,C03,2026-05-04,2026-05-05,2026-05-06,2026-05-06,Delhi,FastBee,Pending,Delivered,2,650,No,1,On Time
+O1002,C02,2026-05-02,2026-05-03,2026-05-07,2026-05-08,Mumbai,ShipQuick,Paid,Delivered,3,900,No,4,Late
+O1006,C06,2026-05-10,2026-05-11,2026-05-14,2026-05-14,Mumbai,Blue Dart,Paid,Delivered,3,1500,No,3,On Time
